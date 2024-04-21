@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Ech0z Cfx-To-Ip is the easiest tool to obtain any cfx server IP from a URL like: `cfx.re/join/kx5la6`</h1>
+<h1 align="center">Ech0z Cfx-To-Ip is the easiest tool to obtain any cfx server IP from a URL like: <code>cfx.re/join/kx5la6</code></h1>
 
 ---
 
