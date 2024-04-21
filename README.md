@@ -16,9 +16,11 @@
 
 <h1 align="center"><b>Packages Used</b></h1>
 
-- [Axios@1.6.8](https://www.npmjs.com/package/axios/v/1.6.8)
-- [Chalk@4.1.2](https://www.npmjs.com/package/chalk/v/4.1.2)
-- [Readline@1.3.0](https://www.npmjs.com/package/readline/v/1.3.0)
+<p align="center">
+  - [Axios@1.6.8](https://www.npmjs.com/package/axios/v/1.6.8)<br>
+  - [Chalk@4.1.2](https://www.npmjs.com/package/chalk/v/4.1.2)<br>
+  - [Readline@1.3.0](https://www.npmjs.com/package/readline/v/1.3.0)
+</p>
 
 ---
 
