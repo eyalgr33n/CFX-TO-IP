@@ -23,7 +23,7 @@ const resolve = async (url) => {
 };
 
 const ask = async () => {
-    const input = await ques(chalk.green.bold('Please your CFX URL: '));
+    const input = await ques(chalk.green.bold('Write your CFX URL: '));
 
     let format = input.trim();
     if (!format.startsWith('http')) format = `https://${format}`;
